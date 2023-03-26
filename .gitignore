@@ -9,6 +9,13 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+.idea
+out/
+.gradle/
+.DS_Store
+*.bat
+settings.gradle
+gradlew/
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
